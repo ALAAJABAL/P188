@@ -1,0 +1,25 @@
+ body
+ {
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ #b1
+ {
+    float: right;
+    font-size: 20px;
+    background-color: orange;
+ }
+ #b2
+ {
+    background-color: red;
+    color: white;
+    font-size: 20px;
+ }
+ canvas
+ {
+    border-style: groove;
+    border-color: red;
+    border-width: 5px;
+    background-color: white;
+    margin-top: 120px;
+ }
